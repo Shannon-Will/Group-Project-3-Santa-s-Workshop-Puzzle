@@ -1,0 +1,3 @@
+"npm install" if npm startdoesn't work at first
+
+Then use "npm start" and enjoy the game!
